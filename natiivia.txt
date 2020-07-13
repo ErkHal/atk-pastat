@@ -1,0 +1,192 @@
+Oltiin tänää kukko pärssisen kanssa PANIIKISSA tekemässä C-KOODIA ku joku hiiri
+(epäilemättä fuksi) tuli kyselemään apua et miten PYTHONISSA toteutetaan
+oikeaoppinen moniperintä!! Kelatkaa, tulee meiltä kysymään tällasta, vaikka
+kaikki tietää ette me ei TODELLAKAAN koodata tulkattuja tai VM kieliä!!!
+Käskettiin sen painua MAARILLE pyytämään neuvoja joltain PYTHON 1 kurssin
+assarilta tai vaihtoehtosesti VARTIJALTA (taitotaso samalla tasolla!!!). Kaveri
+lähtee siitä lätkimään tosi nopeesti hätääntyneenä ja unohtaa  vielä puolikkaan
+MAD CROCIN pöydälle. Kaikkea sitä pitääki todistaa.
+
+Tullaan myöhemmin lounaalta, ja kelatkaa, tää sama kaveri istuu kukkon
+VAKIPAIKALLA ja ähertää siinä tomerasti jotain. Mennään kattomaan lähempää ni
+kaverilla on ECLIPSE auki ja väkertää sillä jotain PYTHONIA tai muuta
+amatöörien ja FUKSIEN kieltä! Ollaan ällikällä lyötyjä tän kaverin
+amatöörimäisyydestä, KAIKKI TIETÄÄ että koodia ei todellakaan kirjoteta muuta
+ku VIMILLÄ tai suoraan reikäkorteille! Kukko heittää siihen heti: "Meinaatko
+ihan KVANTTITASOLLE mennä tolla eclipsellä!" (en tiedä mistä se keksii näitä..
+varmaan jotain sähköjuttuja, Kukko opiskelee tietysti SÄHKÖLLÄ koska kukon
+mukaan siellä liikutaan RAUDAN ALAPUOLELLA!!!!).  Kaveri sössöttää siihen takas
+ettei kuulemma tiedä mikä on kvantti kun ei oo vielä käyny kvanttifysiikan
+KURSSIA!! Kaveri yrittää selkeesti bluffata meitä koska tää JÄTKÄ ei
+todellakaan voi olla muualta kun INFOLTA missä ei todellakaan käydä
+KVANTTIFYSIIKKAA!! Kukko muistuttaa kaverille et eikös tänää illalla olla
+HAVAITSEMISEN kurssin leikekirja-projektityön (koko kurssin ainut suoritus!!!
+ei tenttiä!!) palautus ( miten se muistaa näitä !?!?!?!). Kaveri katoo siitä ku
+pieru saharaan ja jättää tunnarit auki koneeseen. Ajetaan tietysti RAINBOW
+TABLEJA kaverin tunnareilla niksula ADMIN SALASANAA VASTAAN!! Tästä tulee
+taatusti sille ONGELMIA. Oppiipaahan että MEILLE EI TODELLAKAAN VALEHDELLA!!!
+
+-------------------
+
+Oltiin taas paniikissa tekemässä KERNEL koodia ku joku (varmaan taas fuksi tai
+infolainen) tuli selittään meille et VIM on tosi alkeellinen editori verrattuna
+SUBLIME TEXTIIN(???) mitä se kuulemma ite käyttää kaikkeen. Nyt liikku kaveri
+vaarallisilla vesillä koska on yleisessä tiedossa et kukko EI TODELLAKAAN käytä
+muuta ku CURSESIN päälle tehtyjä ohjelmia (Kukolla on himassa sen ite MINIXISTÄ
+forkkaama OS missä ei oo graafista käyttöliittymää ollenkaan!!!). Kukko
+tiedustelee KIRJAKIELELLÄ (varmaan läpällä!?!?) et kuinka hyvä JAVA(Kukko ei
+todellakaan koodaa JAVAA) tuki kyseisestä editorista löytyy. Kaveri rupee
+selittään siinä ihan tohkeissan jostain ihan NAURETTAVISTA ominaisuuksista.
+Jengiä rupee kerääntyy meiä ympärille ihmettelee et mikä ihmeen PELLE täällä
+nyt on äänessä.
+
+Kaveri on kohta vartin selittäny tätä juttua ja kukko tuijottaa vieläkin
+kaveriä silmiin tosi kiinnostuneen näkösenä (mitä se nyt AIKOO?!?). Kaveri
+lopettaa niin kukko kysyy: "Mites onnistuuko myös esprosson teko?"(En tajuu,
+mut varmaan jostain KERNEL messageboardeilta???). Jengi repee täysillä nauraan
+ja kaveri lähtee pois TODELLA HÄPEISSÄÄN. Ei luultavasti enää koskaa kehtaa
+näyttää naamaansa PANIIKISSA!! Kukko heittää YLÄFEMMOJA kaikkien kanssa siinä
+ja me kelataa et ollaa me onnekkaita jätkiä ku meil on tollanen kaveri ku
+KUKKO!
+
+-------------------
+
+Istutaan ruokalassa safkaamassa Kukon kanssa ku vieresee pöytää istuu jotain
+tosi HEIKON näkösiä jannuja. Nää jätkät rupee kovaan ääneen selittämään miten
+vaan AS opiskelijat on TOSI KOODAREITA koska käy LÄHELLÄ RAUTAA olevia kursseja
+niinku C ja C++. Yks näistä jätkistä (IRON MAIDENIN paita päällä?!?) kattoo
+IVALLISESTI meidän pöytään samalla kun sen kaveri jatkaa lässytystä. Nää
+kaverit on jo poistumassa pöydästä ku jotain gimmoja tulee istuun siihe meiän
+vieree. Mimmit kysyy kukolta: "Eks sä oo se jätkä ketä kirjotti C++ kurssin
+projektityönä RAYTRACERIN suoraan X86 ASSEMBLYLLÄ?!?!". Vieressä istuneet
+jätkät lehahtaa ihan punaseks ja rupee mutisemaan jotain jostain PREMATURE
+OPTIMOINNISTA(!?!?) mut kaikki SÄHKÖN ruokalassa tietää siinä vaiheessa et me
+liikutaan taatusti MATALIMMALLA ABSTRAKTIOTASOLLA!!! Me päätetään heti että
+koulupäivä loppuu siihen ja kutsutaan mimmit Kukon mutsin luo kuunteleen Kukon
+JUDAS PRIEST levykokelmaa!
+
+Ollaan kukon mutsin luona ja kuunnellaan Judas Priestiä ku yhtäkkiä yks näistä
+mimmeistä (TOSI KUUMA BRUNETTI!!) rupee vaatimaan Kukolta että näyttäis niille
+miten koodataan KUNNOLLA!! Niillä on kuulemma joku C kurssin TOSI VAIKEE
+tehtävä palauttamatta ja haluis nähä miten kukko ratkasee sen. Heti huomataan
+että nää mimmit on todella amatöörejä tai FUKSEJA koska ei oo osannu tehä ees
+QUICKSORTTIA FIXED(!!) kokoselle taulukolle!?! Me ajatellaan jätkien kanssa et
+nyt kukko SUUTTU kun sen kykyjä aliarvoidaan näin pahasti pyytämällä tekemään
+LAPSELLISIA TEHTÄVIÄ. Mut mitä!?!? kukko ottaa A4 kokosen paperin ja rupee
+PIIRTÄMÄÄN jotain viivoja siihen. Kaikki kattoo tosi YMMÄLLÄÄN Kukkoa ja mimmit
+alkaa toden teolla HIILTYÄ et onks kukkojoku AMATÖÖRI tai vaihtoehtosesti
+PELLE!?!? 
+
+5 minuutin päästä kukko ojentaa paperin näille mimmeille ja sanoo TOSI
+VIILEESTI: "FAR BEYOND METAL" (Varmaan jostain biisistä tai
+messageboardeilta!?). Mimmit ei todella tajuu mitä siinä paperilla on mut me
+TAJUTAAN!! Kukko on piirtäny siihen PIIRIKAAVIOT 32 väyläselle 64BIT QUICKSORT
+ASIC CHIPILLE!! Ku selitetään tää mimmeille ni ne EI TODELLAKAAN enää
+kyseenalaista Kukkoa!! Yks näistä mimmeistä (SE brunetti!) menee ihan valkoseks
+(Ei oo ennen TODISTANU MITÄÄN VASTAAVAA!!) ja joutuu jäämään kukon luo yöksi
+HOITOON!!
+
+-------------------
+
+Mulla oli synttärit eilen ja oltiin tietysti jätkien kanssa juhlan kunniaksi
+koodamassa kvanttitason (SE matalin taso!!) simulaatioita FORTRANILLA
+sähkölafkan DEBIAN LUOKASSA (Todella underground mesta, vaan kukko ja pari
+muuta sähköläistä tietää missä kyseinen paikka sijaitsee!!). Tää liittyy yhteen
+tosi SALAISEEN projektiin minkä kukko on keksiny mut mä en voi paljastaa siitä
+vielä enempää!! Kukko oli ostanu mulle lahjaks TODELLA SIISTIN paidan missä on
+.NET logo ja sen alla: "COMMON LANGUAGE RUN OUT OF TIME" (Kukko oli teetättäny
+myös itelleen samanlaisen!). Mulla oli se päällä tänään ja kaikki ruokalassa
+oli salettiin TODELLA KATEELLISIA!
+
+Oli hyvä nähä kukko pitkästä aikaa hyvällä tuulella. Se on ollu TODELLA
+STRESSAANTUNUT lähiaikoina koska joku AMATÖÖRI assari C-kurssilla oli
+suositellu sen pikkubroidille emacsia. Kukko ei ollu ehtiny VAROITTAA tästä
+LISP-PELLEJEN keksinnöstä ja sen broidi oli saanu TOSI PAHAN
+JÄNNETUPPITULEHDUKSEN. Lääkäri oli kieltäny sen broidia kirjottamasta koodia
+KAHTEEN VIIKKOON!!? Kukko on ollu tosi huolissaan et sen broidi saattaa UNOHTAA
+C-kielen ja joutuu sen takia loppuelämän koodamaan WEBBIÄ TAI MOBIILIA jollain
+VM-KIELILLÄ!! Onneks me osattiin reagoida tilanteeseen SALAMANNOPEASTI ja sen
+broidin omaks parhaaks pakotettiin se HETI alkaan opetteleen ULKOA kaikki K&R
+painokset (Kukolta löytyy tietysti jokainen himasta ja kaikki BRIAN KERNIGHANIN
+nimmarilla varustettuna!!!).
+
+Huomenna kukko on lähössä TODELLA EKSKLUSIIVISEEN kernel koodareitten
+konferenssiin jonnekkin salaiseen lokaatioon(Ilmeisesti venäjälle). Se ei oo
+kertonu meille siitä mitään, mut kuultiin ku se kerto jollekki FUKSIGIMMOILLE
+siitä ruokalassa! Nää mimmit tuli myöhemmin kyselemään meiltä että missä kukko
+asuu ku ne haluu kuulemma ANTAA sille jotain läksiäislahjaks(!??!), mut ei
+suostunu paljastaan MITÄÄN kukon reissusta.
+
+-------------------
+
+Ei oo oikeestaan viimiseen puoleen tapahtunut natiivirintamalla, koska Kukko
+Pärssistä ei oo näkyny sen jälkeen kun lähti kevään alussa venäjälle
+supersalaiseen kernel konferenssiin. Asiat ei todellakaa oo ollu samalla tavalla
+sen jälkeen kun kukko lähti pois. Paniikissa jengi ei enää ees peittele jos
+devaa ECLIPSELLÄ tai WEBSTORM IDELLÄ(!!!). Fuksit alkanu puhuu käytävillä ihan
+häpeilemättä et haluu valmistuu devaa webi frontteja tai mobiilia PHONEGAPILLA!
+Koulun AINUT(!!!) KERNEL TASON kurssi OS projekti on lakkautettu...
+
+Istuttiin viime viikolla sähkön ruokalassa (Salainen debian luokka on sentään
+vielä pystyssä!!) ja kuunneltiin kun jotkut old school software engineer
+tyylillä ironisesti pukeutuneet jätkät tärkeili jotain vieresessä pöydässä.
+Kelatkaa mihin maailma on mennyt ilman KUKKOA, ironista alakulttuurijengiä jo
+SÄHKÖLLÄ!!! Yks niistä jätkistä jutteli et oli kuullu saunaillassa joltain
+valmistuneilta softainsinööreiltä (varmaan jotain frendejä!?) et joskus
+ennenaikoihin koululla oli vielä kunnon ALHAISEN ABSTRAKTIOTASON devaajia ja
+mainitsi et sillon maisemissa oli legendaarinen KUKKO PÄRSSINEN. Nää muut pellet
+repes kovaäänisesti nauraan siinä(??). Yks jätkä mil oli sellaset todella
+mauttomat (Taxi Driver tyylisillä pokilla varustetut!!) rillit ja TÖRKEE
+kokoparta (näytti MUNAKARVOISTA kasvatetulta, Ei todellakaan K&R tyylinen!!)
+rupes vauhkoon kovaan ääneen että Kukko on pelkkä urbaani legenda!
+
+Me ei kauaa pystytty kuunteleen näin törkeetä valehtelua, tällainen lasketaan jo
+JUMALANPILKAKSI! ME meinattii mennä näyttää et natiivi ei todellakaan oo kuollu.
+Jengiä alko kuitenkin kerääntyy siihen ympärille ja ne rupes kertoon et KUKKO on
+pelkkä satu minkä entiset C-kurssien assarit keksi kehittääkseen sankarikulttia
+RAUTATASON devauksen ympärille et kaikkia koulun devauskursseja ei vaihdettais
+JVM Kielille tai Pythonille!! Me poistuttiin paikalta kun kelattiin et mitään ei
+oo enään tehtävissä!! Ei oo TODELLAKAAN meiän tapasta paeta tilanteesta, NYT
+TODELLA TARVITAAN KUKKOA!
+
+-------------------
+
+Moro taas! Ei oo vähään aikaan ollu MITÄÄN tapahtumia niin ei oo jaksanu
+kirjoitella. Nyt on kuitenkin asioita tapahtunu ISOLLA KÄDELLÄ!! Paras että
+alotan alusta. Oltiin sähkön kirjastolla yks päivä ettimässä VANHAN KOULUN
+ohjelmointikirjallisuutta (Sähköllä kaikki ohjelmointikirjat on ajalta ennen
+TURHIA abstraktiokerroksia ja käsittelee asioita taatusti NIIN LÄHELLÄ RAUTAA
+KUN MAHDOLLISTA!!). Katotaan että nurkassa istuu joku HUPPARIPELLE  MACBOOK
+täynnä HEIKKOJA web-teknologiatarroja. Kelataan mennä sanoon kaverille suorat
+sanat et voi painua vaikka INFON kiltikselle häpäsemästä ainoota MATALAN TASON
+MEKKAA koko SUOMESSA!!
+ 
+Kävellään jätkää kohti ni yhtäkkiä se nostaa katseensa ja morjenstaa meitä.
+JUMALAUTA SE ON KUKKO ITE!!. Ollaan ihan HÄMMENTYNEITÄ?! Miten kukosta on tullu
+itsetietonen startup-henkinen WEB-DEVAAJA!??! Kukko selittää et venäjältä se
+olikin KERNEL-konferenssin jälkeen päättäny lentää san fransiscon kautta. Siellä
+se oli käyny dokaamassa joittenkin sen tuntemien devaajien kanssa ja seuraavana
+päivänä oliki ruvennu jeesaa niitä IOS-appin tekemisessä. Kukko oli kuulemma
+saanu osuudet firmasta ja on nykyään MILJONÄÄRI! Se on kuulemma niin tunnettu
+startup piireissä että ei voi mennä enään ees tietotekniikan talolle ilman et
+kaikki tunnistaa sen ja on siks sähköllä! ME oltiin ihan JÄRKYTTYNEITÄ! Miten
+kukko oli voinu myydä KUNNIANSA!?!(kukko teki ennen pelkästään open sourcea ja
+eli sen MUTSIN RAHOILLA niinku kaikki itseään kunnioittavat KERNEL devaajat!!).
+ 
+Illalla mentiin kukon kämpille ja pääteltiin että tilanne oli vielä oletettua
+PAHEMPI! Kukolla oli ennen sen OMATEKEMÄN minix käyttiksen virtuaalimuistin
+toteutuksen C-koodit printattuna ja teipattuna seinälle (Kukko piti niitä
+muistuttamassa siitä HÄPEÄSTÄ et oli tehny ABSTRAKTION raakojen RAUTAOSOITTEIDEN
+päälle!). Nyt sen seinät oli täynnä jotain SLUSH (joku pirtelö?!?. Täytyy
+tarkistaa jostain...) julisteita.
+ 
+Päätettiin laittaa kukon lempi industrial levy FEAR FACTORYN DEMANUFACTURE
+(Kertoo ilmeisesti UTOPIASTA missä ainut kieli on KONEKIELI!!) mut kukko sano et
+diggaa nykyään enemmän VAIHTOEHTOMUSIIKISTA!? Kelattiin että tätä tilannetta
+pystyny korjaan millään ja meiän pitää vaa oppii elämään ILMAN kukkoa. Just ku
+oltiin lähössä muistettiin että kukko piti aina sen reikäkorttipinon välissä
+TOSI SALAISTA(EI NÄYTTÄNY EES MUTSILLEEN!) lappua mitä se aina fuksina luki sen
+jälkeen ku oli ÄRSYYNTYNY PYTHON tai JAVA koulutehtävistä.
+ 
+Kukon mutsiki oli tosi huolissaan kukon nykytilasta ja lupas jeesaa lapun
+ettimisessä. Kerron lisää ku se löytyy..
